@@ -106,7 +106,7 @@ public class Panel extends javax.swing.JFrame {
                 jSliderSoundStateChanged(evt);
             }
         });
-        getContentPane().add(jSliderSound, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 60, 30, 270));
+        getContentPane().add(jSliderSound, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 60, 30, 260));
 
         jButtonBusqueda.setBackground(new java.awt.Color(204, 204, 204));
         jButtonBusqueda.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
